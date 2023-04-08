@@ -1,0 +1,2 @@
+MONGO_URI="mongodb+srv://jeeva:happy@cluster0.zyppu4x.mongodb.net/happy?retryWrites=true&w=majority"
+JWT_SECRET=yoursecretkey
